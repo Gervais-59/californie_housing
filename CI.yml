@@ -30,7 +30,7 @@ jobs:
 
       # 4. Entraîner le modèle (car la machine est vide !)
       - name: Entraîner le modèle
-        run: python main.py
+        run: python mlops.py
 
       # 5. Lancer les tests
       - name: Lancer les tests

@@ -1,3 +1,5 @@
 *.db
 *.joblib
 *.csv
+env
+
