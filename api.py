@@ -41,7 +41,7 @@ class HouseData(BaseModel):
     Longitude: float
 
 
-@app.get("/)
+@app.get("/")
 def accueil():
     return {"Status": "ok", "Message": "Bienvenue sur l'API California Housing"}
 
