@@ -2,4 +2,4 @@
 *.joblib
 *.csv
 env
-
+.gcloudignore

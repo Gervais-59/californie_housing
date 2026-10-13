@@ -12,3 +12,5 @@ pytest
 psycopg2-binary
 seaborn
 httpx2
+streamlit
+requests
