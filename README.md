@@ -44,8 +44,7 @@ Démarrer l'API :
 
     uvicorn api:app --reload
 
-L'API est alors disponible sur http://localhost:8000, et sa documentation
-interactive sur http://localhost:8000/docs.
+L'API est alors disponible en ligne sur https://californiehousing-konan-project-ia-2026.streamlit.app/.
 
 ## Les tests
 
